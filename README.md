@@ -24,7 +24,8 @@
 ## Set-Up:
 * Install Python
 * Install Scrapy
-* git clone https://github.com/hullboy73/scrapy.git
+* scrapy startproject starform
+* git clone https://github.com/hullboy73/starform.git
 
 ## To run (from the command line):
 
